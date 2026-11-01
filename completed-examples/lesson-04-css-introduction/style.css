@@ -1,0 +1,28 @@
+﻿body {
+    background-color: lightyellow;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #0056b3;
+}
+
+h2 {
+    color: rgb(40, 167, 69);
+}
+
+p {
+    color: #333333;
+    font-size: 18px;
+}
+
+img {
+    width: 300px;
+    border-radius: 15px;
+}
+
+a {
+    color: tomato;
+    font-weight: bold;
+}
