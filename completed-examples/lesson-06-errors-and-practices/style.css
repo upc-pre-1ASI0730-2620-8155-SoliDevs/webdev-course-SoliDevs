@@ -1,0 +1,19 @@
+﻿.caja1 {
+    text-align: centro;
+    backround-color: #f4f4f4;
+}
+
+h1 {
+    colro: red;
+    font-family: Arial;
+}
+
+.txt-2 {
+    color: blue;
+    font-size: 20p;
+}
+
+.imgcita {
+    border: 5px solid gold;
+    border-radius: 10px;
+}

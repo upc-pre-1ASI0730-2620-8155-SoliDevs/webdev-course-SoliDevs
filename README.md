@@ -21,47 +21,47 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ## 📚 Secuencia de Lecciones
 
-### 🎬 Lección 1: ¿Qué es el desarrollo web y cómo funciona internet? (10 min)
+### 🎬 Lección 1: ¿Qué es el desarrollo web y cómo funciona internet? (2 min)
 *   **Descripción**: En esta lección se brindará una explicación sencilla de qué es un sitio web y cómo viaja la información desde un servidor hasta el navegador.
-*   **Enlace**: [Ver la lección]()
+*   **Enlace**: [Ver la lección](https://youtu.be/4kxJPxbF6as)
 *   **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS).
-*   **Práctica**: [Open CodePen]()
+*   **Práctica**: [Open CodePen](https://codepen.io/)
 
 ### 🧱 Lección 2: Tus primeros bloques de construcción: Estructura HTML (10 min)
 *   **Descripción**: En esta lección, descubriremos la estructura HTML inicial que toda página web posee, y aprenderemos para qué sirven sus herramientas: las etiquetas, el contenido y los atributos.
 *   **Enlace**: [Ver la lección]()
 *   **Consejos clave**: Al abrir una etiqueta HTML, recuerda siempre cerrarla.
-*   **Práctica**: [Clic para programar en CodePen]()
+*   **Práctica**: [Clic para programar en CodePen](https://codepen.io/)
 
 ### 🖼️ Lección 3: Dándole contenido a la página: Textos, Imágenes y Enlaces (12 min)
 *   **Descripción**: En esta lección se agregarán listas, imágenes y enlaces para que tu página sea interactiva.
 *   **Enlace**: [Ver la lección]()
 *   **Consejos clave**: Usa las etiquetas `<ul>`, `<img>`, `<a>`.
-*   **Práctica**: [Clic para programar en CodePen]()
+*   **Práctica**: [Clic para programar en CodePen](https://codepen.io/)
 
 ### 🎨 Lección 4: Introducción a CSS: ¡Dándole color y estilo! (10 min)
 *   **Descripción**: En esta lección aprenderas a darle estilo a una página web utilizando CSS. Cambia colores, fuentes y personaliza distintos elementos de tu página.
-*   **Enlace**: [Ver la lección]()
+*   **Enlace**: [Ver la lección](https://youtu.be/czN8vwp4qCU)
 *   **Consejos clave**: CSS se encarga de la apariencia. Utiliza selectores y propiedades como `background-color`, `font-family` y `color`.
-*   **Práctica**: [Clic para crear estilos en Codepen]()
+*   **Práctica**: [Clic para crear estilos en Codepen](https://codepen.io/)
 
-### 📐 Lección 5: Diseño y Bordes (12 min)
+### 📐 Lección 5: Diseño y Bordes (10 min)
 *   **Descripción**: En esta lección se dará una explicación sencilla y práctica sobre cómo darle estructura y forma a nuestra página con CSS.
-*   **Enlace**: [Ver la lección]()
+*   **Enlace**: [Ver la lección](https://youtu.be/GqpHf5c99rw)
 *   **Consejos clave**: Usar márgenes y espaciados para que la página se vea ordenada, y aplicar bordes redondeados.
-*   **Proyecto Final**: [Clic para programar]()
+*   **Proyecto Final**: [Clic para programar](https://codepen.io/)
 
-### 🛠️ Lección 6: Errores comunes y consejos (10 min)
+### 🛠️ Lección 6: Errores comunes y consejos (15 min)
 *   **Descripción**: En esta lección nos centraremos en corregir errores comunes de principantes y aplicar buenas prácticas para que nuestro código sea más entendible.
-*   **Enlace**: [Ver Lección]()
+*   **Enlace**: [Ver Lección](https://youtu.be/_pEVx_g6MPs)
 *   **Consejos Clave**: Revisa que los atributos y rutas estén correctamente escritos, y aplica indentación para exponer una jerarquía entre los elementos.
-*   **Práctica**: [Clic para programar]()
+*   **Práctica**: [Clic para programar](https://codepen.io/)
 
 ### 🚀 Lección 7: Creación final de la página web (15 min)
 * **Descripción**: En esta lección se aplicará los conceptos aprendidos de HTML y CSS creando una tarjeta web sencilla sobre un videojuego. Utiliza títulos, imágenes, párrafos, enlaces y estilos para personalizar tu página.
 * **Enlace**: [Ver la lección]()
 * **Consejos clave**: HTML define la estructura de la página y CSS mejora su apariencia. Utiliza etiquetas como `h1`, `p`, `img` y propiedades como `background-color`, `color` y `border-radius`.
-* **Práctica**: [Crear una tarjeta web en CodePen]()
+* **Práctica**: [Crear una tarjeta web en CodePen](https://codepen.io/)
 
 ---
 
@@ -69,13 +69,13 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 | Lección # | Actividad | Empezar a Programar |
 | :--- | :--- | :--- |
-| 1 | Conceptos básicos: Cómo funciona la web | [CodePen](https://codepen.io/NicoCSE/pen/QwGzLrX) |
-| 2 | Estructurar tu primera página HTML | [CodePen]( https://shorturl.at/RGRtc) |
-| 3 | Integrar textos, imágenes y enlaces | [CodePen](https://codepen.io/u202415820/pen/azBPzxb) |
-| 4 | Aplicar estilos y colores con CSS | [CodePen](https://codepen.io/smp1107/pen/XJNodyj) |
-| 5 | Crear una página de perfil personal | [CodePen](https://shorturl.at/Zszxw) |
-| 6 | Corregir errores y aplicar buenas prácticas | [CodePen](https://shorturl.at/9VX0X) |
-| 7 | Proyecto final: Tarjeta web sobre un videojuego | [CodePen](https://codepen.io/smp1107/pen/dPNpqPp) |
+| 1 | Conceptos básicos: Cómo funciona la web | [CodePen](https://codepen.io/) |
+| 2 | Estructurar tu primera página HTML | [CodePen]( ) |
+| 3 | Integrar textos, imágenes y enlaces | [CodePen]() |
+| 4 | Aplicar estilos y colores con CSS | [CodePen](https://codepen.io/NicoCSE/pen/NPpOogB) |
+| 5 | Crear una página de perfil personal | [CodePen]() |
+| 6 | Corregir errores y aplicar buenas prácticas | [CodePen](https://shorturl.at/8HWOn) |
+| 7 | Proyecto final: Tarjeta web sobre un videojuego | [CodePen]() |
 
 ✨ **¡Gracias por completar el curso!** ✨
 
