@@ -73,7 +73,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 | 2 | Estructurar tu primera página HTML | [CodePen]( ) |
 | 3 | Integrar textos, imágenes y enlaces | [CodePen]() |
 | 4 | Aplicar estilos y colores con CSS | [CodePen](https://codepen.io/NicoCSE/pen/NPpOogB) |
-| 5 | Crear una página de perfil personal | [CodePen]() |
+| 5 | Crear una página de perfil personal | [CodePen](https://shorturl.at/V0Xpa) |
 | 6 | Corregir errores y aplicar buenas prácticas | [CodePen](https://shorturl.at/8HWOn) |
 | 7 | Proyecto final: Tarjeta web sobre un videojuego | [CodePen]() |
 
