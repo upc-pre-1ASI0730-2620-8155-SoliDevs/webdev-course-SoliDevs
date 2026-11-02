@@ -27,7 +27,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 *   **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS).
 *   **Práctica**: [Open CodePen](https://codepen.io/)
 
-### 🧱 Lección 2: Tus primeros bloques de construcción: Estructura HTML (10 min)
+### 🧱 Lección 2: Tus primeros bloques de construcción: Estructura HTML (8 min)
 *   **Descripción**: En esta lección, descubriremos la estructura HTML inicial que toda página web posee, y aprenderemos para qué sirven sus herramientas: las etiquetas, el contenido y los atributos.
 *   **Enlace**: [Ver la lección](https://youtu.be/-gpaesL87lk)
 *   **Consejos clave**: Al abrir una etiqueta HTML, recuerda siempre cerrarla.
