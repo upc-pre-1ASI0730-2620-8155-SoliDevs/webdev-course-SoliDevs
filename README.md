@@ -27,9 +27,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 *   **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS).
 *   **Práctica**: [Open CodePen](https://codepen.io/)
 
-### 🧱 Lección 2: Tus primeros bloques de construcción: Estructura HTML (10 min)
+### 🧱 Lección 2: Tus primeros bloques de construcción: Estructura HTML (8 min)
 *   **Descripción**: En esta lección, descubriremos la estructura HTML inicial que toda página web posee, y aprenderemos para qué sirven sus herramientas: las etiquetas, el contenido y los atributos.
-*   **Enlace**: [Ver la lección]()
+*   **Enlace**: [Ver la lección](https://youtu.be/-gpaesL87lk)
 *   **Consejos clave**: Al abrir una etiqueta HTML, recuerda siempre cerrarla.
 *   **Práctica**: [Clic para programar en CodePen](https://codepen.io/)
 
@@ -70,7 +70,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 | Lección # | Actividad | Empezar a Programar |
 | :--- | :--- | :--- |
 | 1 | Conceptos básicos: Cómo funciona la web | [CodePen](https://codepen.io/) |
-| 2 | Estructurar tu primera página HTML | [CodePen]( ) |
+| 2 | Estructurar tu primera página HTML | [CodePen](https://shorturl.at/rS6Af) |
 | 3 | Integrar textos, imágenes y enlaces | [CodePen]() |
 | 4 | Aplicar estilos y colores con CSS | [CodePen](https://codepen.io/NicoCSE/pen/NPpOogB) |
 | 5 | Crear una página de perfil personal | [CodePen](https://shorturl.at/V0Xpa) |
